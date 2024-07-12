@@ -9,8 +9,7 @@ function transformarLink(linkA) {
 let lsitaVideos = ['https://youtu.be/KDDOy5SyMQw?si=oCg9EtIev3WVcfYV',
      'https://youtu.be/eDdlh8vwlas?si=TjrZkyLJheRQrHUM',
       'https://youtu.be/Cq6u2y7B65U?si=fl6oKt8r9P3G_xUj',
-      'https://youtu.be/vrKecPTBMqE?si=XhvClgk8E9qIPcaj',
-      'https://youtu.be/yx_yQuQjOIo?si=pR7nR2J63A1fuQwQ'
+      'https://youtu.be/vrKecPTBMqE?si=XhvClgk8E9qIPcaj'
     ]
 
 
